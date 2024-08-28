@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Solana1\presale-token\target\debug\deps\libtypenum-37210fe8c719ca57.rmeta: C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\bit.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\int.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\marker_traits.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\operator_aliases.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\private.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\type_operators.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\uint.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\array.rs C:\Users\USER\Desktop\Solana1\presale-token\target\debug\build\typenum-fc96d7c51d4fdec5\out/op.rs C:\Users\USER\Desktop\Solana1\presale-token\target\debug\build\typenum-fc96d7c51d4fdec5\out/consts.rs
+
+C:\Users\USER\Desktop\Solana1\presale-token\target\debug\deps\typenum-37210fe8c719ca57.d: C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\bit.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\int.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\marker_traits.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\operator_aliases.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\private.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\type_operators.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\uint.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\array.rs C:\Users\USER\Desktop\Solana1\presale-token\target\debug\build\typenum-fc96d7c51d4fdec5\out/op.rs C:\Users\USER\Desktop\Solana1\presale-token\target\debug\build\typenum-fc96d7c51d4fdec5\out/consts.rs
+
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\bit.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\int.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\marker_traits.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\operator_aliases.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\private.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\type_operators.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\uint.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\typenum-1.17.0\src\array.rs:
+C:\Users\USER\Desktop\Solana1\presale-token\target\debug\build\typenum-fc96d7c51d4fdec5\out/op.rs:
+C:\Users\USER\Desktop\Solana1\presale-token\target\debug\build\typenum-fc96d7c51d4fdec5\out/consts.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\USER\\Desktop\\Solana1\\presale-token\\target\\debug\\build\\typenum-fc96d7c51d4fdec5\\out

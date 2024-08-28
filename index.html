@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Token Presale</title>
+    <style>
+       body {
+    background: linear-gradient(135deg, yellow, green, red);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border: 4px solid;
+    border-image: linear-gradient(90deg, red, blue) 1;
+    border-radius: 10px;
+}
+
+.container p,
+.container input,
+.container button {
+    margin: 10px;
+    font-size: 16px;
+}
+
+.container input {
+    padding: 10px;
+    width: 200px;
+}
+
+.container button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#errorMessage {
+    color: red;
+}
+
+/* Additional styles for the Buy buttons */
+.container button.buy-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.container button.buy-button:hover {
+    background-color: #0056b3;
+}
+
+/* Additional styles for Connect Wallet button */
+.container button.connect-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.container button.connect-button:hover {
+    background-color: #218838;
+}
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Token Presale</h1>
+        <button onclick="connectWallet()">Connect Wallet</button>
+        <div id="walletAddress"></div>
+
+        <div>
+            <h2>Buy Tokens</h2>
+            <div>
+                <input type="number" id="amountETH" placeholder="Amount in ETH">
+                <button onclick="buyTokensETH()">Buy with ETH</button>
+            </div>
+            <div>
+                <input type="number" id="amountUSDT" placeholder="Amount in USDT">
+                <button onclick="buyTokensUSDT()">Buy with USDT</button>
+            </div>
+        </div>
+        <div>
+            <h2>Presale Details</h2>
+            <p>Soft Cap: <span id="softCap"></span></p>
+            <p>Hard Cap: <span id="hardCap"></span></p>
+            <p>Time Remaining: <span id="timeRemaining"></span></p>
+        </div>
+        <p id="errorMessage"></p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.3.6/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

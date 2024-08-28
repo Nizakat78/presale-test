@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Solana1\presale-token\target\debug\deps\libark_std-e6a5d4e2293bfeb6.rmeta: C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\USER\Desktop\Solana1\presale-token\target\debug\deps\ark_std-e6a5d4e2293bfeb6.d: C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs:
